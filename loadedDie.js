@@ -10,6 +10,7 @@ function makeLoadedDie() {
 
 var rollLoadedDie = makeLoadedDie();
 
+
 console.log(rollLoadedDie());
 console.log(rollLoadedDie());
 console.log(rollLoadedDie());
